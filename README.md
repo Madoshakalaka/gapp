@@ -1,7 +1,7 @@
 # gapp
 ![travis-badge](https://travis-ci.org/Madoshakalaka/gapp.svg?branch=master)
 
-easy buttons and other graphics elements to control the code.
+Buttons and other graphics elements to control code.
 
 ## How to Use
 
